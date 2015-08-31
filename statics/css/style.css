@@ -1,0 +1,35 @@
+
+/* 去除导航条圆角 */
+.navbar{
+	border-radius: 0;
+}
+/* 脚部样式 */
+footer{
+	background-color: #eee;
+	padding: 20px 0;
+}
+/* 登录框 */
+#login{
+	background-color: #eee;
+	padding: 20px;
+	border-radius: 5px;
+}
+*{
+	font-family: Microsoft-Yahei;
+}
+
+
+/* 侧边栏样式 */
+#sidebar a{
+	color: #000;
+	font-size: 1.1em;
+	font-weight: 600;
+}
+
+
+/* 主体内容 */
+#main-content{
+	border-left: 1px solid #eee;
+	margin-bottom: 20px;
+	min-height: 495px;
+}
